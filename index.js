@@ -24,5 +24,7 @@ client.on('guildMemberRemove', async (message) => {
 	await require('./events/guild/memberRemove')(message);
 });
 
+process.on("unhandledRejection", (err) => console.error(err))//muestra en consola todas las promesas rechazadas y sin catch
+
 client.login(process.env.TOKEN)
 	.then(() => console.log('El bot ha iniciado sesión correctamente'));
