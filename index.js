@@ -1,5 +1,11 @@
 require('dotenv').config();
-
+const express = require('express');
+const app = express();
+const port = 3000;
+app.get("/", function(request, response) {
+  response.sendFile(__dirname + '/Web.html');
+});
+app.listen(port, () => console.log(`Code online 👍`));
 const { Client, Collection } = require('discord.js');
 const fs = require('fs');
 
