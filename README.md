@@ -19,3 +19,4 @@
 
 * Crea un **env** con el nombre `PREFIX` y dentro del valor pon el que será tu prefix
 
+### Paso 3 <img src="https://cdn.discordapp.com/emojis/563944248635031575.png?v=1" width="35px">
