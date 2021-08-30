@@ -20,3 +20,5 @@
 * Crea un **env** con el nombre `PREFIX` y dentro del valor pon el que será tu prefix
 
 ### Paso 3 <img src="https://cdn.discordapp.com/emojis/563944248635031575.png?v=1" width="35px">
+
+Ejecuta el bot y ahora ya tienes tu bot <img src="https://camo.githubusercontent.com/11a76741d0de35b889ff3ebb7d2720790b46349eb2f0accaf77dbd46a1a16c9f/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3835323438333634313738373431363538362e706e673f763d31" width="25px" >
